@@ -39,4 +39,8 @@ var inf = Infinity;
 console.log(inf);
 console.log(typeof inf);
 
+var num = new Number(10);
+console.log(typeof num);
+
+
 
