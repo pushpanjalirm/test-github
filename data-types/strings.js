@@ -20,7 +20,7 @@ console.log(fullstack);
 var uni = "\u0026"
 console.log(uni);
 
-var name = "anjali" + "adith";
+var name = "anjali" + " " + "adith";
 console.log(name);
 
 var intro = "Hello myself "+ name+ " "+ "I AM "+ "age"+" 56 years old."

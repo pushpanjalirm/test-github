@@ -31,3 +31,9 @@ var leftmoney = 60;
 if(leftmoney < 50) {
     console.log('20')
 }
+
+var total = 300;
+var leftMoney = 60;
+if (leftmoney < 50) {
+    comnsole.log('leftmoney is 50');
+}
